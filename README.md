@@ -8,4 +8,3 @@ These are the course assignments and projects for **Learning Data Science with P
 #### Additional notes
 * The assignments and projects vary each year and are designed by the current teaching assistants, so this content is provided solely for reference.
 * I have not included the lecture slides due to copyright restrictions.
-* Please allow one to two days for me to upload the full projects (updated as of 2024/12/4).
